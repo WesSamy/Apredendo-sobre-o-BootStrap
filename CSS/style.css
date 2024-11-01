@@ -1,0 +1,30 @@
+
+body{
+    background-color: gray;
+    
+}
+
+.carousel{
+   
+    width: 70%;
+    margin: 200px auto;
+}
+
+.titlepage1{
+    background-color: black;
+    padding: 40px 20px;
+    display: flex;
+    justify-content: center;
+    margin: 20px auto;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: azure;
+    font-size: 50px;
+    font-style:inherit;
+}
+
+.container{
+    display: flex;
+}
+.card{
+    margin: 200px auto;
+}
